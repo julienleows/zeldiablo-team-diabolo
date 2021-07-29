@@ -5,6 +5,8 @@
 
 Le but de ce projet est de créer un jeu en équipe avec le langage java et l'implémentation d'une interface graphique.
 La création de ce jeu a été réalisé en 6 jours avec des itérations de 4 heures.
+Vous trouverez dans ce dépôt la démo vidéo du jeu et le document pdf de soutenance.
+⚠️ le code source de ce projet n'est pas accesible, car il est soumi au droit d'auteur.
 
 **Disponible :**
  - [x] Une présentation du projet  [ici](https://github.com/julienleows/zeldiablo-team-diabolo/blob/master/presentation_team_diabolo_zeldiablo.pdf)
