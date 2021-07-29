@@ -23,5 +23,5 @@ Vous trouverez dans ce dépôt la démo vidéo du jeu et le document pdf de sout
 * JAVA Swing
 
 <p align="center">
-  <img width="400" height="400" src="?">
+  <img width="400" height="400" src="https://github.com/julienleows/Zeldiablo-game/blob/master/zeldiablo-image.png">
 </p>
